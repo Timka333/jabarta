@@ -7,6 +7,8 @@ gem 'rails', '4.1.7'
 gem 'bootstrap-sass', '~> 3.2.0.2'
 gem 'autoprefixer-rails'
 
+gem 'rails_12factor'
+
 gem 'pg'
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 4.0.3'
